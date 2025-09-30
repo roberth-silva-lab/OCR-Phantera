@@ -1,0 +1,32 @@
+# ==========================================
+# Requisitos do projeto OCR-Panthera
+# ==========================================
+
+# OpenCV para captura e manipulação de vídeo e imagens
+opencv-python
+
+# Numpy para processamento numérico
+numpy
+
+# Ultralytics YOLO para detecção de objetos
+ultralytics
+
+# EasyOCR para leitura de textos (placas)
+easyocr
+
+# Torch (PyTorch) - necessário para YOLO e EasyOCR
+# ==========================================
+# Para CPU:
+torch==2.3.1+cpu
+torchvision==0.19.2+cpu
+torchaudio==2.3.1+cpu
+
+# Para GPU (descomente se tiver CUDA compatível)
+# torch==2.3.1+cu122
+# torchvision==0.19.2+cu122
+# torchaudio==2.3.1+cu122
+
+# ==========================================
+# Nota:
+# - collections e datetime fazem parte da biblioteca padrão do Python
+# - Certifique-se de usar Python >=3.10

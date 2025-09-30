@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "1028e4b1436219ae6804d1e974a1d765",
+        "name": "placa1280.jpg",
+        "path": "file:C:/Users/WorkStation/Desktop/exemplos/placa1280.jpg",
+        "size": {
+            "width": 320,
+            "height": 158
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "VtoPRg12Vz",
+            "type": "RECTANGLE",
+            "tags": [
+                "placa de veiculo"
+            ],
+            "boundingBox": {
+                "height": 156.0692464358452,
+                "width": 309.0543259557344,
+                "left": 5.150905432595573,
+                "top": 1.0961048879837068
+            },
+            "points": [
+                {
+                    "x": 5.150905432595573,
+                    "y": 1.0961048879837068
+                },
+                {
+                    "x": 314.20523138833,
+                    "y": 1.0961048879837068
+                },
+                {
+                    "x": 314.20523138833,
+                    "y": 157.16535132382893
+                },
+                {
+                    "x": 5.150905432595573,
+                    "y": 157.16535132382893
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

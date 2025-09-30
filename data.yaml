@@ -1,0 +1,4 @@
+train: C:/Users/WorkStation/Desktop/OCR-Esdras/dataset/images 
+val: C:/Users/WorkStation/Desktop/OCR-Esdras/dataset/images  
+nc: 1  
+names: ['placa de veiculo']  

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "b3fdcc52b01d84baa6b000917cc142f1",
+        "name": "placa683.jpg",
+        "path": "file:C:/Users/WorkStation/Desktop/exemplos/placa683.jpg",
+        "size": {
+            "width": 1280,
+            "height": 720
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Qp-88RKS_T",
+            "type": "RECTANGLE",
+            "tags": [
+                "placa de veiculo"
+            ],
+            "boundingBox": {
+                "height": 75.40041067761807,
+                "width": 143.37182448036953,
+                "left": 546.8822170900693,
+                "top": 552.2895277207392
+            },
+            "points": [
+                {
+                    "x": 546.8822170900693,
+                    "y": 552.2895277207392
+                },
+                {
+                    "x": 690.2540415704389,
+                    "y": 552.2895277207392
+                },
+                {
+                    "x": 690.2540415704389,
+                    "y": 627.6899383983573
+                },
+                {
+                    "x": 546.8822170900693,
+                    "y": 627.6899383983573
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>placa938.jpg</filename>
+    <path>OCR-PascalVOC-export/Annotations/placa938.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>placa de veiculo</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>718.9276139410188</xmin>
+        <ymin>567.1071428571428</ymin>
+        <xmax>856.1930294906166</xmax>
+        <ymax>656.2499999999999</ymax>
+    </bndbox>
+</object>
+</annotation>

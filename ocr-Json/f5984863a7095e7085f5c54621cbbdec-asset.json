@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "f5984863a7095e7085f5c54621cbbdec",
+        "name": "placa348.jpg",
+        "path": "file:C:/Users/WorkStation/Desktop/exemplos/placa348.jpg",
+        "size": {
+            "width": 1280,
+            "height": 720
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "MuLOTsJEnU",
+            "type": "RECTANGLE",
+            "tags": [
+                "placa de veiculo"
+            ],
+            "boundingBox": {
+                "height": 94.62012320328542,
+                "width": 168.49884526558893,
+                "left": 282.3094688221709,
+                "top": 305.3901437371663
+            },
+            "points": [
+                {
+                    "x": 282.3094688221709,
+                    "y": 305.3901437371663
+                },
+                {
+                    "x": 450.8083140877598,
+                    "y": 305.3901437371663
+                },
+                {
+                    "x": 450.8083140877598,
+                    "y": 400.01026694045174
+                },
+                {
+                    "x": 282.3094688221709,
+                    "y": 400.01026694045174
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

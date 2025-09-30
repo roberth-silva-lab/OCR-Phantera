@@ -1,0 +1,103 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>placa190.jpg</filename>
+    <path>OCR-PascalVOC-export/Annotations/placa190.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1500</width>
+        <height>900</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>placa de veiculo</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>99.89754098360656</xmin>
+        <ymin>151.75981228668942</ymin>
+        <xmax>281.25</xmax>
+        <ymax>225.47994880546077</ymax>
+    </bndbox>
+</object><object>
+    <name>placa de veiculo</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>516.3934426229503</xmin>
+        <ymin>168.65401023890772</ymin>
+        <xmax>728.4836065573769</xmax>
+        <ymax>254.94880546075075</ymax>
+    </bndbox>
+</object><object>
+    <name>placa de veiculo</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>828.3811475409836</xmin>
+        <ymin>202.4424061433447</ymin>
+        <xmax>994.3647540983607</xmax>
+        <ymax>294.5925767918089</ymax>
+    </bndbox>
+</object><object>
+    <name>placa de veiculo</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1209.5286885245898</xmin>
+        <ymin>157.90315699658697</ymin>
+        <xmax>1384.7336065573768</xmax>
+        <ymax>241.12627986348116</ymax>
+    </bndbox>
+</object><object>
+    <name>placa de veiculo</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>585.5532786885245</xmin>
+        <ymin>827.5277303754266</ymin>
+        <xmax>662.3975409836065</xmax>
+        <ymax>856.7086177474403</ymax>
+    </bndbox>
+</object><object>
+    <name>placa de veiculo</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>891.3934426229508</xmin>
+        <ymin>844.421928327645</ymin>
+        <xmax>975.922131147541</xmax>
+        <ymax>879.7461604095563</ymax>
+    </bndbox>
+</object><object>
+    <name>placa de veiculo</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1315.573770491803</xmin>
+        <ymin>796.8110068259385</ymin>
+        <xmax>1412.3975409836064</xmax>
+        <ymax>856.7086177474403</ymax>
+    </bndbox>
+</object><object>
+    <name>placa de veiculo</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>136.78278688524588</xmin>
+        <ymin>829.063566552901</ymin>
+        <xmax>196.72131147540983</xmax>
+        <ymax>858.2444539249146</ymax>
+    </bndbox>
+</object>
+</annotation>

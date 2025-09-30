@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "86312b2f797af971acd1c90f961a1708",
+        "name": "placa1318.jpg",
+        "path": "file:C:/Users/WorkStation/Desktop/exemplos/placa1318.jpg",
+        "size": {
+            "width": 320,
+            "height": 162
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "TseixByhH1",
+            "type": "RECTANGLE",
+            "tags": [
+                "placa de veiculo"
+            ],
+            "boundingBox": {
+                "height": 156.2027833001988,
+                "width": 312.9175050301811,
+                "left": 6.116700201207244,
+                "top": 3.7390034791252487
+            },
+            "points": [
+                {
+                    "x": 6.116700201207244,
+                    "y": 3.7390034791252487
+                },
+                {
+                    "x": 319.03420523138834,
+                    "y": 3.7390034791252487
+                },
+                {
+                    "x": 319.03420523138834,
+                    "y": 159.94178677932405
+                },
+                {
+                    "x": 6.116700201207244,
+                    "y": 159.94178677932405
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

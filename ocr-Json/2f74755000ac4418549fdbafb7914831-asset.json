@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "2f74755000ac4418549fdbafb7914831",
+        "name": "placa925.jpg",
+        "path": "file:C:/Users/WorkStation/Desktop/exemplos/placa925.jpg",
+        "size": {
+            "width": 1280,
+            "height": 800
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "KIVIICO6Gg",
+            "type": "RECTANGLE",
+            "tags": [
+                "placa de veiculo"
+            ],
+            "boundingBox": {
+                "height": 90.98712446351932,
+                "width": 108.09651474530831,
+                "left": 298.55227882037536,
+                "top": 132.40343347639487
+            },
+            "points": [
+                {
+                    "x": 298.55227882037536,
+                    "y": 132.40343347639487
+                },
+                {
+                    "x": 406.64879356568366,
+                    "y": 132.40343347639487
+                },
+                {
+                    "x": 406.64879356568366,
+                    "y": 223.39055793991417
+                },
+                {
+                    "x": 298.55227882037536,
+                    "y": 223.39055793991417
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

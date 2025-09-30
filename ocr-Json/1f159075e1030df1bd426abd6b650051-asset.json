@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "1f159075e1030df1bd426abd6b650051",
+        "name": "placa898.jpg",
+        "path": "file:C:/Users/WorkStation/Desktop/exemplos/placa898.jpg",
+        "size": {
+            "width": 474,
+            "height": 355
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ZUroFD-_YV",
+            "type": "RECTANGLE",
+            "tags": [
+                "placa de veiculo"
+            ],
+            "boundingBox": {
+                "height": 83.19320214669052,
+                "width": 116.91152815013405,
+                "left": 193.7935656836461,
+                "top": 162.80425424865834
+            },
+            "points": [
+                {
+                    "x": 193.7935656836461,
+                    "y": 162.80425424865834
+                },
+                {
+                    "x": 310.70509383378015,
+                    "y": 162.80425424865834
+                },
+                {
+                    "x": 310.70509383378015,
+                    "y": 245.99745639534885
+                },
+                {
+                    "x": 193.7935656836461,
+                    "y": 245.99745639534885
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

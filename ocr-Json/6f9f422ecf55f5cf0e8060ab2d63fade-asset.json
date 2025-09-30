@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "6f9f422ecf55f5cf0e8060ab2d63fade",
+        "name": "placa1327.jpg",
+        "path": "file:C:/Users/WorkStation/Desktop/exemplos/placa1327.jpg",
+        "size": {
+            "width": 320,
+            "height": 161
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "vPaEuN1x11",
+            "type": "RECTANGLE",
+            "tags": [
+                "placa de veiculo"
+            ],
+            "boundingBox": {
+                "height": 153.916,
+                "width": 309.69818913480884,
+                "left": 3.219315895372233,
+                "top": 2.918125
+            },
+            "points": [
+                {
+                    "x": 3.219315895372233,
+                    "y": 2.918125
+                },
+                {
+                    "x": 312.9175050301811,
+                    "y": 2.918125
+                },
+                {
+                    "x": 312.9175050301811,
+                    "y": 156.834125
+                },
+                {
+                    "x": 3.219315895372233,
+                    "y": 156.834125
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
