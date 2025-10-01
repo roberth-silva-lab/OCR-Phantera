@@ -124,13 +124,6 @@ OCR-Phantera/
 
 Projeto desenvolvido por **Roberth Arnaldo Loogam Souza da Silva**
 
----
-
-## 📜 Licença
-
-Distribuído sob licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
-
----
 
 ## 🤝 Contribuições
 
@@ -138,6 +131,7 @@ Contribuições são bem-vindas!
 
 * Sugestões? Abra uma *issue*
 * Melhorias? Envie um *pull request*
+
 
 
 
