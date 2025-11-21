@@ -26,7 +26,7 @@
 
 ## 📸 Galeria de Resultados
 
-Exemplos reais de detecção e leitura nos dois padrões de placas:
+Exemplos reais de detecção e leitura no padrões de placas Mercosul:
 
 | Placa Mercosul | Placa Mercosul |
 | :---: | :---: |
