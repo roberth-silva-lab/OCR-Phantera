@@ -6,7 +6,8 @@ from ocr_easy import aplicar_ocr_easy
 from datetime import datetime
 from collections import deque
 
-BASE_DIR = r"C:\Users\WorkStation\Desktop\placas"
+#devera colocar o caminho claro que de acordo com o que está no seu pc 
+BASE_DIR = r"C:\Users\SeuPC\Desktop\placas"
 
 
 os.makedirs(BASE_DIR, exist_ok=True)
